@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <listeners>
+		<listener
+			class-name="org.techpanda.live.listeners.MyListener" />
+	</listeners>
+	<test name="TechPanda tests">
+		<classes>
+			<class name="org.techpanda.live.testcases.HomeTest" />
+			<class name="org.techpanda.live.testcases.AccountTest" />
+			<class name="org.techpanda.live.testcases.CartTest" />
+			<class name="org.techpanda.live.testcases.CompareProductsTest" />
+			<class name="org.techpanda.live.testcases.MobileTest" />
+			<class name="org.techpanda.live.testcases.SonyXperiaTest" />
+		</classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
