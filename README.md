@@ -3,15 +3,6 @@
 ## Project Overview
 This project involves automated testing of the e-commerce website TechPanda. The tests cover core functionalities of the site to ensure a smooth user experience and to validate that essential features are working as expected.
 
-## Tested Features
-The following features of the TechPanda website were tested:
-- **User Registration**: Validating valid user registration processes.
-- **Login**: Testing successful and unsuccessful login attempts.
-- **Search Functionality**: Ensuring accurate and relevant search results.
-- **Shopping Cart**: Adding, updating, and removing products in the cart.
-- **Wishlist**: Adding items to the wishlist and verifying functionality.
-- **Order Placement**: Completing the order process and checking order details.
-
 ## Tech Stack
 ![Selenium WebDriver](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
