@@ -5,7 +5,7 @@ This project involves automated testing of the e-commerce website TechPanda. The
 
 ## Tested Features
 The following features of the TechPanda website were tested:
-- **User Registration**: Validating both valid and invalid user registration processes.
+- **User Registration**: Validating valid user registration processes.
 - **Login**: Testing successful and unsuccessful login attempts.
 - **Search Functionality**: Ensuring accurate and relevant search results.
 - **Shopping Cart**: Adding, updating, and removing products in the cart.
