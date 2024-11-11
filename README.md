@@ -1,0 +1,1 @@
+# eshop-techpanda-automation-testing
